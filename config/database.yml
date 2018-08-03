@@ -21,7 +21,7 @@ development:
 
 production:
   <<: *default
-    database: lazycalculus
-    host: localhost
-    username: root
-    password: 123123
+  database: lazycalculus
+  host: localhost
+  username: root
+  password: 123123

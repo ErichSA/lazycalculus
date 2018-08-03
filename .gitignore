@@ -15,3 +15,9 @@
 /log/*
 !/log/.keep
 /tmp
+
+public/assets/application-32d100abb714cc831f904cc60b2f7918e4e2c8297ef90720a294ead5c96d2ed7.js
+
+.idea/lazycalculus-backend.iml
+
+.idea/workspace.xml

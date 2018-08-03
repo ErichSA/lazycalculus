@@ -22,8 +22,6 @@ development:
 
 production:
   <<: *default
-  #TODO CONFIG
-  #database: production_real
-  #host: real-production.copzu9uynnvm.us-west-2.rds.amazonaws.com
-  #username: prod
-  #password: tDB!#%135
+  database: lazycalculus
+  password: 123123
+

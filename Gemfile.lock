@@ -118,6 +118,8 @@ GEM
       nokogiri (>= 1.6)
     rails-html-sanitizer (1.0.4)
       loofah (~> 2.2, >= 2.2.2)
+    rails-ujs (0.1.0)
+      railties (>= 3.1)
     railties (5.2.0)
       actionpack (= 5.2.0)
       activesupport (= 5.2.0)
@@ -164,6 +166,7 @@ DEPENDENCIES
   mysql2 (= 0.3.19)
   puma
   rails (= 5.2.0)
+  rails-ujs
   spring
   web-console (~> 2.0)
 
